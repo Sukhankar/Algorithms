@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms using C
+Algorithms pseudo code 
